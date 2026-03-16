@@ -130,12 +130,12 @@
             "smartVariantManagement": true,
             "enableTableFilterInPageVariant": true,
             "filterSettings": {
-              "dateSettings": {
+              "dateSettings": {  
                 "useDateRange": true
               }
             },
             "tableSettings": {
-              "type": "GridTable"
+              "type": "GridTable"    
             }
           }
         },
